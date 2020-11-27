@@ -10,3 +10,8 @@
 * from sklearn.model_selection import StratifiedKFold
 * import lightgbm as lgb
 * Public Score 0.77990
+
+### upura-tutorial-10p_random_forest_shufflesplit
+* from sklearn.model_selection import ShuffleSplit
+* from sklearn.ensemble import RandomForestClassifier
+* Public Score 0.75358
