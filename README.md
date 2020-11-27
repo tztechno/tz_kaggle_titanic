@@ -2,7 +2,7 @@
 
 
 ### notebook42e0ceac8a
-* from sklearn.model_selection import ShuffleSplit
+* from sklearn.model_selection import ShuffleSplit (n_splits=1)
 * from keras.models import Sequential 
 * Public Score 0.78947
 
@@ -12,6 +12,6 @@
 * Public Score 0.77990
 
 ### upura-tutorial-10p_random_forest_shufflesplit
-* from sklearn.model_selection import ShuffleSplit
+* from sklearn.model_selection import ShuffleSplit (n_splits=5)
 * from sklearn.ensemble import RandomForestClassifier
 * Public Score 0.75358
