@@ -15,3 +15,8 @@
 * from sklearn.model_selection import ShuffleSplit (n_splits=5)
 * from sklearn.ensemble import RandomForestClassifier
 * Public Score 0.75358
+
+### upura-11-split5-keras
+* from sklearn.model_selection import ShuffleSplit (n_splits=5)
+* from keras.models import Sequential 
+* Public Score 0.78468
