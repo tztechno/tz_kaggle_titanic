@@ -7,7 +7,7 @@
 * Public Score 0.78947
 
 ### notebook136af4f546-lgb6
-* from sklearn.model_selection import StratifiedKFold
+* from sklearn.model_selection import StratifiedKFold (n_splits=8)
 * import lightgbm as lgb
 * Public Score 0.77990
 
