@@ -20,3 +20,8 @@
 * from sklearn.model_selection import ShuffleSplit (n_splits=5)
 * from keras.models import Sequential 
 * Public Score 0.78468
+
+### upura-12_split5_LogisticRegression
+* from sklearn.model_selection import ShuffleSplit (n_splits=5)
+* from sklearn.linear_model import LogisticRegression 
+* Public Score 0.77751
