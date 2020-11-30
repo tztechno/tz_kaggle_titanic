@@ -25,3 +25,8 @@
 * from sklearn.model_selection import ShuffleSplit (n_splits=5)
 * from sklearn.linear_model import LogisticRegression 
 * Public Score 0.77751
+
+### upura-13-split5-xgboost (1)
+* from sklearn.model_selection import ShuffleSplit (n_splits=5)
+* from xgboost import XGBClassifier 
+* Public Score 0.76076
