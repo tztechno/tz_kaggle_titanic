@@ -30,3 +30,10 @@
 * from sklearn.model_selection import ShuffleSplit (n_splits=5)
 * from xgboost import XGBClassifier 
 * Public Score 0.76076
+
+### upura-15-split5-lgbm
+* from sklearn.model_selection import ShuffleSplit (n_splits=5)
+* import lightgbm as lgb 
+* Public Score 0.74162
+
+
