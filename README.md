@@ -39,6 +39,6 @@
 ### upura-18-split5-catboost
 * from sklearn.model_selection import ShuffleSplit (n_splits=1)
 * from catboost import CatBoostClassifier
-* Public Score 0.75598
+* Public Score 0.75358
 
 
