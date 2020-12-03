@@ -46,4 +46,13 @@
 * from sklearn.neighbors import KNeighborsClassifier
 * Public Score 0.75358
 
+### upura-20_StratifiedKFold_KNeighbors
+* from sklearn.model_selection import StratifiedKFold (n_splits=10)
+* from sklearn.neighbors import KNeighborsClassifier
+* Public Score 0.75358
+
+
+
+
+
 
