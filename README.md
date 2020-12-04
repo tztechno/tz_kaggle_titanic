@@ -41,6 +41,11 @@
 * from catboost import CatBoostClassifier
 * Public Score 0.75358
 
+### upura-21-split10-catboost
+* from sklearn.model_selection import ShuffleSplit (n_splits=10)
+* from catboost import CatBoostClassifier
+* Public Score 0.80143
+
 ### upura-19-kfold-kneighbors
 * from sklearn.model_selection import KFold (n_splits=20)
 * from sklearn.neighbors import KNeighborsClassifier
