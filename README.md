@@ -11,7 +11,7 @@
 * import lightgbm as lgb
 * Public Score 0.77990
 
-### titanic-atma71-1
+### titanic-atma71-1 (1)
 * from sklearn.model_selection import StratifiedKFold (n_splits=5)
 * import lightgbm as lgb
 * Public Score 0.78708
