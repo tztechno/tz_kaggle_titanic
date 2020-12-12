@@ -16,6 +16,11 @@
 * import lightgbm as lgb
 * Public Score 0.78708
 
+### titanic-atma81-1
+* from sklearn.model_selection import StratifiedKFold (n_splits=5)
+* import lightgbm as lgb
+* Public Score 0.70574
+
 ### upura-tutorial-10p_random_forest_shufflesplit
 * from sklearn.model_selection import ShuffleSplit (n_splits=5)
 * from sklearn.ensemble import RandomForestClassifier
