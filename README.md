@@ -66,6 +66,13 @@
 * from sklearn.neighbors import KNeighborsClassifier
 * Public Score 0.75358
 
+### kagglebook 0101_2
+* from sklearn.model_selection import KFold (n_splits=4)
+* from xgboost import XGBClassifier
+* Public Score 0.76555
+
+
+
 
 
 
