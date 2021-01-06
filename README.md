@@ -67,9 +67,10 @@
 * Public Score 0.75358
 
 ### kagglebook 0101_2
-* from sklearn.model_selection import KFold (n_splits=4)
+* from sklearn.model_selection import KFold (n_splits=10)
+* import itertools
 * from xgboost import XGBClassifier
-* Public Score 0.76555
+* Public Score 0.76794
 
 
 
